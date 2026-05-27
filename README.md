@@ -1,5 +1,7 @@
 # Maze
 
+<img width="1470" height="759" alt="Screenshot 2026-05-27 at 22 13 04" src="https://github.com/user-attachments/assets/4ffdd6d6-3394-4fbb-a922-9106fa641261" />
+
 Hosted version: https://zzp-online-marketing.nl/maze-2026/
 
 So this was a project that I created in 2014, when HTML5 Canvas was still hot and new. I followed a tutorial online to build it - also harking back to theory I had read about in books from Andre LaMothe. It all worked and I was very happy, but the structure of the whole project wasn't great. It was pretty much coded like it was C in a way.
