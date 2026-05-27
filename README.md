@@ -1,6 +1,6 @@
 # Maze
 
-<img width="1470" height="759" alt="Screenshot 2026-05-27 at 22 13 04" src="https://github.com/user-attachments/assets/4ffdd6d6-3394-4fbb-a922-9106fa641261" />
+<img width="963" height="638" alt="Screenshot 2026-05-27 at 22 14 09" src="https://github.com/user-attachments/assets/c6709d6a-3e52-468e-9ff3-01f5bd62f71d" />
 
 Hosted version: https://zzp-online-marketing.nl/maze-2026/
 
