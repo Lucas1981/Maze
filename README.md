@@ -1,5 +1,7 @@
 # Maze
 
+Hosted version: https://zzp-online-marketing.nl/maze-2026/
+
 So this was a project that I created in 2014, when HTML5 Canvas was still hot and new. I followed a tutorial online to build it - also harking back to theory I had read about in books from Andre LaMothe. It all worked and I was very happy, but the structure of the whole project wasn't great. It was pretty much coded like it was C in a way.
 
 Now I decided to open it back up and revise it with the help of Cursor's AI agencies. It runs a lot faster now! I think mainly because it uses lookup tables with cached values for relatively intensive calculations such as cos, sin and tan. It also reduced some of the calculations that were being done more than once. It also figured it could increment in places rather than recalculate a whole value.

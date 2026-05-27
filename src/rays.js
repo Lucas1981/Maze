@@ -233,8 +233,8 @@ function drawFloorAndCeilingColumn(state) {
     state.offScreenData.data[ceilingOffset + 3] =
       state.image4Data.data[ceilingOffset + 3];
 
-    floorOffset += state.columnStride;
-    ceilingOffset -= state.columnStride;
+    floorOffset += state.canvasStride;
+    ceilingOffset -= state.canvasStride;
   }
 }
 
@@ -335,7 +335,7 @@ function drawRay(destX, state, canvasStride, screenOffsetY) {
 
   drawFloorAndCeilingColumn({
     projectionRowStart,
-    columnStride,
+    canvasStride,
     floorBaseOffset,
     ceilingBaseOffset,
     playerX,
